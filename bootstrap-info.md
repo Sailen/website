@@ -24,6 +24,7 @@ Base CSS
   Buttons
 
 JS Components
+  Dropdowns
   Collapse
 
 Responsive (all of them)
@@ -35,4 +36,5 @@ Responsive (all of them)
 
 jQuery plugins
   Transitions
+  Dropdowns
   Collapse
